@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Sagar Kondle 👋
-### Data Analyst | Power BI | SQL | Python
+### Data Analyst | Excel | Power BI | SQL | Python
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0057FF?style=for-the-badge)](https://sagar-analyst.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagar-kondle-465323192)
